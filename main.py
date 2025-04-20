@@ -1,3 +1,64 @@
+"""
+==================================================
+✅ Smart To-Do App with Calendar, Goals & WhatsApp
+==================================================
+
+Authors   : Bharat Rai & Ayush Kumar Sahani  
+Course    : Logic Building with Python (End Sem Project)  
+Stack     : Streamlit + MySQL + Twilio + Plotly + Pandas  
+Date      : April 2025
+
+📌 Description:
+This is a full-featured task management and productivity tracker app.
+It runs on Streamlit and connects to a MySQL backend. Includes:
+- Recurring tasks (daily, weekly, monthly)
+- Calendar and heatmap views
+- Goal tracker with streak logic
+- WhatsApp notifications (via Twilio API)
+- Gamification, quotes, and dashboard stats
+
+--------------------------------------------------
+
+🔧 Setup Instructions:
+
+1. ✅ Ensure you have Python 3.9+ and pip installed.
+2. ✅ Install dependencies:
+    pip install -r requirements.txt
+
+3. ✅ Create the MySQL database:
+    CREATE DATABASE todo_app;
+
+4. ✅ Update database credentials in the `get_db_connection()` function:
+    host="localhost",
+    user="root",
+    password="YOUR_MYSQL_PASSWORD",
+    database="todo_app"
+
+5. ✅ Enable Twilio WhatsApp notifications:
+    - Get a Twilio trial account
+    - Replace `twilio_sid`, `twilio_auth_token`, and numbers in `secrets.toml`
+
+6. ✅ Run the app:
+    streamlit run main.py
+
+--------------------------------------------------
+
+📦 Notes:
+- All core logic is self-contained in this file (no external modules).
+- Designed to be deployed easily on Streamlit Cloud or localhost.
+- Goal tracking resets automatically weekly/monthly.
+- All tasks are auto-reloaded with `st.rerun()` after updates.
+
+Enjoy building your productivity superpower 💪
+
+"""
+
+
+
+
+
+
+
 import streamlit as st
 import mysql.connector
 from datetime import date, datetime, timedelta
