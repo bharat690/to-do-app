@@ -39,7 +39,7 @@ This is not your regular to-do list. It's a **feature-packed productivity dashbo
 
 ## 📸 Preview
 
-![app-demo](assets/demo.gif)  
+![app-demo](assets/To-Do App_1.jpg)  
 
 
 ---
