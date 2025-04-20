@@ -39,7 +39,8 @@ This is not your regular to-do list. It's a **feature-packed productivity dashbo
 
 ## 📸 Preview
 
-![app-demo](assets/To-Do App_1.jpg)  
+![To-Do App Screenshot](https://github.com/bharat690/to-do-app/blob/7893af1dc3e8c076cbbf118493780c2e7a67ed25/assets/To-Do%20App_1.jpg?raw=true)
+
 
 
 ---
