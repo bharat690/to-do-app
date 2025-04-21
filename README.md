@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Us
 
-**Bharat Rai** and **Ayush Kumar Sahani** built this project as the **End Semester Project** for the course **Logic Building with Python** 🎓.
+**Bharat Rai** , **Ayush Kumar Sahani** and **Ayushmaan Kaithwar** built this project as the **End Semester Project** for the course **Logic Building with Python** 🎓.
 
 We took this as an opportunity to go beyond the basics and craft something meaningful, useful, and fun — a productivity app that blends logic, data, and real-world value.
 
