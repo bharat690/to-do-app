@@ -3,10 +3,10 @@
 ✅ Smart To-Do App with Calendar, Goals & WhatsApp
 ==================================================
 
-Authors   : Bharat Rai & Ayush Kumar Sahani  
+Authors   : Bharat Rai , Ayush Kumar Sahani & Ayushmaan Kaithwar 
 Course    : Logic Building with Python (End Sem Project)  
 Stack     : Streamlit + MySQL + Twilio + Plotly + Pandas  
-Date      : April 2025
+Date      : 22 April 2025
 
 📌 Description:
 This is a full-featured task management and productivity tracker app.
